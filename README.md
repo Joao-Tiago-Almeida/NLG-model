@@ -38,7 +38,7 @@ pip3 install pandas
 pip3 install sklearn
 ```
 
-## Running the tests
+## Running the offline model
 
 The head file is [local_test.py](https://github.com/Joao-Tiago-Almeida/NLG-model/blob/master/offline%20model/local_test.py) and contains several examples in json format. Due to confidentiality with the company I am not allowed to publish the server version so, in order to run the [offline model](https://github.com/Joao-Tiago-Almeida/NLG-model/tree/master/offline%20model) it is needed to convert the table to json in the following format:
 ```python
@@ -62,6 +62,8 @@ mammals3 = {
 ```
 When `WTITE_FILE` is `True`, it is produces an [HTML](https://github.com/Joao-Tiago-Almeida/NLG-model/blob/master/docs/index.html)
 
+## Running the tests
+
 Here is more Tableaus which the model produces nice reports:
 - https://public.tableau.com/views/money1_13/CashInstruments?:embed=y&:display_count=y&:origin=viz_share_link
 - https://public.tableau.com/profile/venkat8761#!/vizhome/worldCovid-19/Covid-19
@@ -78,6 +80,10 @@ Here is more Tableaus which the model produces nice reports:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Joao-Tiago-Almeida/NLG-model/blob/master/LICENSE) file for details
+
+## Documentation
+
+[Here](https://github.com/Joao-Tiago-Almeida/NLG-model/tree/master/Documentation) is all the documentation that have been supporting the project throughout the years.
 
 ## Acknowledgment
 
