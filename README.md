@@ -7,16 +7,11 @@ Natural Language Generation model which produces a report from a formatted input
 I worked two months in a NLG model during my summer intership at Syone.
 The input is a table whether excel or tableau and it is used [pandas.DataFrame](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html) to access to the data and produces a final report.
 
-## Example
+## Pratical Example
 
 [Input](https://public.tableau.com/views/RegionalSampleWorkbook/Storms?:embed=y&:showVizHome=n&:jsdebug=y&:bootstrapWhenNotified=y&:tabs=n&:apiID=handler0)  | [Output](https://joao-tiago-almeida.github.io/NLG-model/)
 ------------- | -------------
-![output](https://user-images.githubusercontent.com/39059647/94350048-5216ce80-0042-11eb-91e7-9f8e4caf6542.png) | ![input](https://user-images.githubusercontent.com/39059647/94350049-52af6500-0042-11eb-94f9-f6037ee6a8b0.png)
-
-
-
-
-
+![input](https://user-images.githubusercontent.com/39059647/94350049-52af6500-0042-11eb-94f9-f6037ee6a8b0.png)| ![output](https://user-images.githubusercontent.com/39059647/94350048-5216ce80-0042-11eb-91e7-9f8e4caf6542.png) 
 
 ## Getting Started
 
