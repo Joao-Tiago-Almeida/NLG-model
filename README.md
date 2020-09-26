@@ -1,4 +1,4 @@
-# NLG-model
+# [NLG model](https://github.com/Joao-Tiago-Almeida/NLG-model/tree/master/offline%20model)
 
 Natural Language Generation model which produces a report from a formatted input as excel or tableau.
 The input is a table whether excel or tableau and it is used [pandas.DataFrame](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html) to access the data and produces a summarized report.
@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-To worked in this project, it was used python3 (3.8.4)
+To worked in this project it was used python3 (3.8.4)
 
 
 ### Installing
@@ -40,6 +40,27 @@ pip3 install sklearn
 
 ## Running the tests
 
+The head file is [local_test.py](https://github.com/Joao-Tiago-Almeida/NLG-model/blob/master/offline%20model/local_test.py) and contains several examples in json format. Due to confidentiality with the company I am not allowed to publish the server version so, in order to run the [offline model](https://github.com/Joao-Tiago-Almeida/NLG-model/tree/master/offline%20model) it is needed to convert the table to json in the following format:
+```python
+variable name: {'data':[     <table content>    ]}
+
+% EXAMPLE
+
+mammals3 = {
+    "data": [
+        {
+            "Animal": "Okapi",
+            "Adult weight(kg)": "225",
+            "Maximum longevity(y)": "34",
+            "Female maturity(d)": "578",
+            "Male maturity(d)": "790",
+            "Litter size": "1",
+            "Domain": "Earth"
+        }
+    ]
+}
+```
+
 Here is more Tableaus which the model produces nice reports:
 - https://public.tableau.com/views/money1_13/CashInstruments?:embed=y&:display_count=y&:origin=viz_share_link
 - https://public.tableau.com/profile/venkat8761#!/vizhome/worldCovid-19/Covid-19
@@ -59,4 +80,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 ## Acknowledgment
 
-I worked two months in this NLG model during my Summer Intership at Syone at 2020.
+I worked two months in this [NLG model](https://github.com/Joao-Tiago-Almeida/NLG-model/tree/master/offline%20model) during my Summer Intership at Syone at 2020.
