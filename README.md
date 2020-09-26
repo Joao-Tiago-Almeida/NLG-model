@@ -1,7 +1,7 @@
 # NLG-model
 
 Natural Language Generation model which produces a report from a formatted input as excel or tableau.
-The input is a table whether excel or tableau and it is used [pandas.DataFrame](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html) to access the data and produces a final report.
+The input is a table whether excel or tableau and it is used [pandas.DataFrame](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html) to access the data and produces a summarized report.
 
 ## Pratical Example
 
@@ -55,7 +55,7 @@ Here is more Tableaus which the model produces nice reports:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Joao-Tiago-Almeida/NLG-model/blob/master/LICENSE) file for details
 
 ## Acknowledgment
 
