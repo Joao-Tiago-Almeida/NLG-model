@@ -19,80 +19,46 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+To worked in this project, it was used python3 (3.8.4)
 
-```
-Give examples
-```
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
+Get pip3:
 ```
-Give the example
+python3 get-pip.py
 ```
-
-And repeat
-
+Get technologies
 ```
-until finished
+pip3 install Flask
+pip3 install openpyxl
+pip3 install excel2img
+pip3 install elasticsearch
+pip3 install nltk
+pip3 install wordnet
+pip3 install matplotlib
+pip3 install numpy
+pip3 install pandas
+pip3 install sklearn
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+Here is more Tableaus which the model produces nice reports:
+- https://public.tableau.com/views/money1_13/CashInstruments?:embed=y&:display_count=y&:origin=viz_share_link
+- https://public.tableau.com/profile/venkat8761#!/vizhome/worldCovid-19/Covid-19
+- https://public.tableau.com/views/RegisteredVehiclesOpenDataProject/BrandBenchmark?:showVizHome=n&amp;:embed=t
+- https://public.tableau.com/views/DashboardExample_14/DashboardExample?:embed=y&:display_count=yes&:showTabs=y&:showVizHome=no
+- https://public.tableau.com/views/ThePulpFictionConnection/PulpFictionConnection?:showVizHome=n&amp;:embed=t
+- https://public.tableau.com/views/CashlessSociety/CashlessSociety?:showVizHome=n&amp;:embed=t
+- https://public.tableau.com/en-us/gallery/costs-using-car?tab=viz-of-the-day&type=viz-of-the-day
+- https://public.tableau.com/views/Womensrepresentationinpoliticsvizforsocialgood/WomeninPolitics?:showVizHome=n&amp;:embed=t
+- https://public.tableau.com/views/TopLinkedInSkillsfor20142015and2016/LinkedInDashboard?:showVizHome=n&amp;:embed=t
+- https://public.tableau.com/views/BigBookofLineCharts/BBLC1?:showVizHome=n&amp;:embed=t
+- https://public.tableau.com/views/TheMeatMap/meat-dash?:showVizHome=n&amp;:embed=t
+- https://public.tableau.com/views/2018W27NewYorkRatSightings/NewYorkRatSightings?:showVizHome=n&amp;:embed=t
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
