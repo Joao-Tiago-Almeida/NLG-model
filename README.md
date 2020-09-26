@@ -1,7 +1,4 @@
-
-https://joao-tiago-almeida.github.io/NLG-model/
-
-# NLG-modele
+# NLG-model
 
 Natural Language Generation model which produces a report from a formatted input as excel or tableau.
 
