@@ -4,7 +4,7 @@ https://joao-tiago-almeida.github.io/NLG-model/
 # NLG-modele
 
 Natural Language Generation model which produces a report from a formatted input as excel or tableau.
-I worked two months in a NLG model during my summer intership at Syone.
+
 The input is a table whether excel or tableau and it is used [pandas.DataFrame](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html) to access to the data and produces a final report.
 
 ## Pratical Example
@@ -61,3 +61,6 @@ Here is more Tableaus which the model produces nice reports:
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
+## Acknowledgment
+
+I worked two months in this NLG model during my Summer Intership at Syone at 2020.
