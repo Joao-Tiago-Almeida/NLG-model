@@ -77,13 +77,13 @@ Here is more Tableaus which the model produces nice reports:
 - https://public.tableau.com/views/TheMeatMap/meat-dash?:showVizHome=n&amp;:embed=t
 - https://public.tableau.com/views/2018W27NewYorkRatSightings/NewYorkRatSightings?:showVizHome=n&amp;:embed=t
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Joao-Tiago-Almeida/NLG-model/blob/master/LICENSE) file for details
-
 ## Documentation
 
 [Here](https://github.com/Joao-Tiago-Almeida/NLG-model/tree/master/Documentation) is all the documentation that have been supporting the project throughout the years.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Joao-Tiago-Almeida/NLG-model/blob/master/LICENSE) file for details
 
 ## Acknowledgment
 
