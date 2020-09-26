@@ -11,8 +11,7 @@ The input is a table whether excel or tableau and it is used [pandas.DataFrame](
 
 [Input](https://public.tableau.com/views/RegionalSampleWorkbook/Storms?:embed=y&:showVizHome=n&:jsdebug=y&:bootstrapWhenNotified=y&:tabs=n&:apiID=handler0)  | [Output](https://joao-tiago-almeida.github.io/NLG-model/)
 ------------- | -------------
-![input](https://user-images.githubusercontent.com/39059647/94349979-aec5b980-0041-11eb-94ce-81993a44beab.png)|![input](https://user-images.githubusercontent.com/39059647/94349979-aec5b980-0041-11eb-94ce-81993a44beab.png)
-
+![output](https://user-images.githubusercontent.com/39059647/94350048-5216ce80-0042-11eb-91e7-9f8e4caf6542.png) | ![input](https://user-images.githubusercontent.com/39059647/94350049-52af6500-0042-11eb-94f9-f6037ee6a8b0.png)
 
 
 
