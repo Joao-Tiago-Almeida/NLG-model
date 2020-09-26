@@ -48,7 +48,6 @@ Here is more Tableaus which the model produces nice reports:
 - https://public.tableau.com/views/money1_13/CashInstruments?:embed=y&:display_count=y&:origin=viz_share_link
 - https://public.tableau.com/profile/venkat8761#!/vizhome/worldCovid-19/Covid-19
 - https://public.tableau.com/views/RegisteredVehiclesOpenDataProject/BrandBenchmark?:showVizHome=n&amp;:embed=t
-- https://public.tableau.com/views/DashboardExample_14/DashboardExample?:embed=y&:display_count=yes&:showTabs=y&:showVizHome=no
 - https://public.tableau.com/views/ThePulpFictionConnection/PulpFictionConnection?:showVizHome=n&amp;:embed=t
 - https://public.tableau.com/views/CashlessSociety/CashlessSociety?:showVizHome=n&amp;:embed=t
 - https://public.tableau.com/en-us/gallery/costs-using-car?tab=viz-of-the-day&type=viz-of-the-day
