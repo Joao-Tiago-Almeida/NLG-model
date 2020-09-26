@@ -7,10 +7,15 @@ Natural Language Generation model which produces a report from a formatted input
 I worked two months in a NLG model during my summer intership at Syone.
 The input is a table whether excel or tableau and it is used [pandas.DataFrame](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html) to access to the data and produces a final report.
 
-## Example: [Input](https://public.tableau.com/views/RegionalSampleWorkbook/Storms?:embed=y&:showVizHome=n&:jsdebug=y&:bootstrapWhenNotified=y&:tabs=n&:apiID=handler0) -> [Output](https://joao-tiago-almeida.github.io/NLG-model/)
+## Example
 
-![input](https://user-images.githubusercontent.com/39059647/94349786-e6336680-003f-11eb-8165-0e39a6149423.png)
-![output](https://user-images.githubusercontent.com/39059647/94349788-e6cbfd00-003f-11eb-9b01-80c1a06aa713.png)
+[Input](https://public.tableau.com/views/RegionalSampleWorkbook/Storms?:embed=y&:showVizHome=n&:jsdebug=y&:bootstrapWhenNotified=y&:tabs=n&:apiID=handler0)  | [Output](https://joao-tiago-almeida.github.io/NLG-model/)
+------------- | -------------
+![input](https://user-images.githubusercontent.com/39059647/94349786-e6336680-003f-11eb-8165-0e39a6149423.png)  |![output](https://user-images.githubusercontent.com/39059647/94349788-e6cbfd00-003f-11eb-9b01-80c1a06aa713.png)
+
+
+
+
 
 
 ## Getting Started
