@@ -61,6 +61,7 @@ mammals3 = {
 }
 ```
 When `WTITE_FILE` is `True`, it is produces an [HTML](https://github.com/Joao-Tiago-Almeida/NLG-model/blob/master/docs/index.html)
+
 Here is more Tableaus which the model produces nice reports:
 - https://public.tableau.com/views/money1_13/CashInstruments?:embed=y&:display_count=y&:origin=viz_share_link
 - https://public.tableau.com/profile/venkat8761#!/vizhome/worldCovid-19/Covid-19
