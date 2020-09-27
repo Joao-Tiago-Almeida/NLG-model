@@ -59,7 +59,7 @@ mammals3 = {
     ]
 }
 ```
-When `WTITE_FILE` is `True`, it is produces an [HTML](https://github.com/Joao-Tiago-Almeida/NLG-model/blob/master/docs/index.html)
+When `WTITE_FILE` is `True`, it produces an [HTML](https://github.com/Joao-Tiago-Almeida/NLG-model/blob/master/docs/index.html)
 
 ## Running the tests
 
