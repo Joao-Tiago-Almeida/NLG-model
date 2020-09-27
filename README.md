@@ -1,7 +1,6 @@
 # [NLG model](https://github.com/Joao-Tiago-Almeida/NLG-model/tree/master/offline%20model)
 
-Natural Language Generation model which produces a report from a formatted input as excel or tableau.
-The input is a table whether excel or tableau and it is used [pandas.DataFrame](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html) to access the data and produces a summarized report.
+Natural Language Generation model which produces a report from a formatted input table whether excel or tableau, and it is used [pandas.DataFrame](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html) to access the data and produces a summarized report.
 
 ## Pratical Example
 
