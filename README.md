@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-To worked in this project it was used python3 (3.8.4)
+During the development of the project it was used python3 (3.8.4)
 
 
 ### Installing
